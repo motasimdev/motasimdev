@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Motasim Billah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motasimdev" alt="motasimdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motasimdev" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Orebi-ecommerce](https://orebi-ecommerce-react.vercel.app/)
 
